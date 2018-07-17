@@ -152,7 +152,7 @@ body {
 }
 
 .btn--white::after {
-	batextckground-color: #fff;
+	background-color: #fff;
 	color:#fff;
 }
 
