@@ -1,0 +1,24 @@
+{
+  "name": "sass-project",
+  "version": "1.0.0",
+  "description": "Landing page using Sass",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/style.scss css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrianMwevi/Pure-Css3-Html5.git"
+  },
+  "author": "Brian Mwevi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrianMwevi/Pure-Css3-Html5/issues"
+  },
+  "homepage": "https://github.com/BrianMwevi/Pure-Css3-Html5#readme",
+  "devDependencies": {
+    "autoprefixer": "^9.0.1",
+    "node-sass": "^4.9.2",
+    "postcss-cli": "^6.0.0"
+  }
+}
