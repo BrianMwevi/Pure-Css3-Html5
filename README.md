@@ -1,2 +1,2 @@
-# Pure-Css3-Html5
-Theme created by pure Html5 and Css3
+# Pure-Css3-Html53
+#Theme created by pure Html5 and Css3
